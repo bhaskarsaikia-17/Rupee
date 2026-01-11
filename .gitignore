@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Whitelist the Github release folder
+!Github/
+!Github/**
+
+# Whitelist gitignore itself
+!.gitignore
