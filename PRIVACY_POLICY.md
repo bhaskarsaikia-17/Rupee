@@ -20,23 +20,17 @@ To provide you with the full experience, Rupee may request the following permiss
 *   **Notification Access**: Required for the automated expense tracking feature (if enabled). We strictly process transaction-related notifications locally to automate expense logging. Your personal messages (SMS, WhatsApp, etc.) are **never** read, stored, or transmitted.
 *   **Storage/Photos**: Required if you wish to attach images to your transactions or save generated reports (PDF/CSV) to your device.
 
-## 3. Third-Party Services
-
-Rupee does not share your data with third-party advertisers or data brokers.
-
-*   **Indus App Store / Google Play Services**: Depending on where you downloaded the app, basic usage statistics (crashes, install counts) may be collected anonymously by the app store platforms themselves, subject to their respective privacy policies.
-
-## 4. Children’s Privacy
+## 3. Children’s Privacy
 
 Our application does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children.
 
-## 5. Changes to This Privacy Policy
+## 4. Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. Any changes are effective immediately after they are posted.
 
-## 6. Contact Us
+## 5. Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
-[support@rupeeapp.com](mailto:support@rupeeapp.com)
+[bhaskar@nynx.in](mailto:bhaskar@nynx.in)
 
 By using Rupee, you also agree to our **[Terms of Service](TERMS.md)**.
