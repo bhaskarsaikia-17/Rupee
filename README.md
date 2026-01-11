@@ -37,11 +37,11 @@ You can download the latest version of the app from the **[Releases](https://rup
 
 ## 🖼️ Screenshots
 
-| Home | Analytics | Add Expense |
+| Home | Add Expense | Lending |
 |:---:|:---:|:---:|
 | <img src="assets/01_home.jpg" width="200" /> | <img src="assets/02_analytics.jpg" width="200" /> | <img src="assets/03_add_expense.jpg" width="200" /> |
 
-| Lending | Budget | Menu |
+| Lending Stats | Budget | Menu |
 |:---:|:---:|:---:|
 | <img src="assets/04_lending.jpg" width="200" /> | <img src="assets/05_budget.jpg" width="200" /> | <img src="assets/06_menu.jpg" width="200" /> |
 
